@@ -21,7 +21,7 @@ The project is a Weather App entitled simply 'Weather App'
 
 * [Angular](https://angular.io/) - The web framework used
 * Using VScode https://code.visualstudio.com/
-* and using openweathermap.org. 
+* and using https://openweathermap.org. 
 
 ## Authors
 * ** DeVon Thompson** - *Debugging*
