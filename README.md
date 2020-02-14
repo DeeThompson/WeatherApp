@@ -60,7 +60,7 @@ While going through the initial set up of the project and initial installations 
 * The work around to the problem was hard coding the apiURL and apiKey in the weather.service.ts file
 
 *  Major Bug 2
-* There was an error with with 'from @angular/materials and overall issue with the app.module.ts file. This issue seems wide spread and from my personal searches as well as those listed above who helped with debugging, there wasn't a conclusive fix. Here is a GitHub link detailing the bug https://github.com/angular/components/issues/17503
+* There was an error with 'from @angular/materials and overall issue with the app.module.ts file. This issue seems wide spread and from my personal searches as well as those listed above who helped with debugging, there wasn't a conclusive fix. Here is a GitHub link detailing the bug https://github.com/angular/components/issues/17503
 
 
 ## Acknowledgments
