@@ -7,10 +7,10 @@ The project is a Weather App entitled simply 'Weather App'
 
 * [Prerequisites](#Prerequisites)
 * [Installation](#Installation)
-* [Built With](#Built With)
-* [Run The App](#Run The App)
+* [BuiltWith](#BuiltWith)
+* [Run The App](#RunTheApp)
 * [Authors](#Authors)
-* [Project Comments](#Project Comments)
+* [ProjectComments](#ProjectComments)
 * [Acknowledgments](#Acknowledgments)
 
 
@@ -30,13 +30,13 @@ The project is a Weather App entitled simply 'Weather App'
 * To Install 'moment(formatting dates) run npm i moment
 
 
-## Built With
+## BuiltWith
 
 * [Angular](https://angular.io/) - The web framework used
 * Using VScode https://code.visualstudio.com/
 * and using https://openweathermap.org. 
 
-## Run The App
+## RunTheApp
 
 * NG Serve is used in the CLI to run the application. Once it has finished compiling you will able to view the application at  http://localhost:4200/
 
@@ -49,7 +49,7 @@ The project is a Weather App entitled simply 'Weather App'
 * John Au-Yeung - *tutorial guide* - https://medium.com/better-programming/how-to-use-the-openweathermap-api-to-make-a-weather-app-f8d67b22c3ca
 
 
-## Project Comments
+## ProjectComments
 
 * This was my first time using the Angular framework, given the time frame, I think I chose the best way to complete the task to the best of my ability. 
 * The tutorial that I found through extensive research and educating myself on Angular, I felt and feel was also the best of what I saw presented. 
