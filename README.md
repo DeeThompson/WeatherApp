@@ -1,16 +1,28 @@
-### Project Title
+## Project Title
 
 The project is a Weather App entitled simply 'Weather App' 
 
+## Table of Contents 
 
-### Prerequisites
+
+* [Prerequistes](#Prerequistes)
+* [Installation](#Installation)
+* [Built With](#Built With)
+* [Run The App](#Run The App)
+* [Authors](#Authors)
+* [Project Comments](#Project Comments)
+* [Acknowledgements](#Acknowledgements)
+
+
+
+## Prerequisites
 
 * An IDE of your choice
-* Node.js
-* Latest version of Angular  
+* Node.js(this project uses version 13.7.0)
+* Latest version of Angular(this project uses Angular: 9.0.1) 
 
 
-### Installing
+## Installation
 * Follow the installations step by step
 * To Install Angular npm i -g @angular/cli 
 * To Install Angular/Materials npm install --save @angular/material @angular/cdk @angular/animations
@@ -18,14 +30,18 @@ The project is a Weather App entitled simply 'Weather App'
 * To Install 'moment(formatting dates) run npm i moment
 
 
-### Built With
+## Built With
 
 * [Angular](https://angular.io/) - The web framework used
 * Using VScode https://code.visualstudio.com/
 * and using https://openweathermap.org. 
 
+## Run The App
 
-### Authors
+* NG Serve is used in the CLI to run the application. Once it has finished compiling you will able to view the application at  http://localhost:4200/
+
+
+## Authors
 * DeVon Thompson - *Debugging*
 * Tishana Trainor - *Debugging*
 * Gemma Curl - *Debugging*
@@ -33,7 +49,7 @@ The project is a Weather App entitled simply 'Weather App'
 * John Au-Yeung - *tutorial guide* - https://medium.com/better-programming/how-to-use-the-openweathermap-api-to-make-a-weather-app-f8d67b22c3ca
 
 
-### Project Comments
+## Project Comments
 
 * This was my first time using the Angular framework, given the time frame, I think I chose the best way to complete the task to the best of my ability. 
 * The tutorial that I found through extensive research and educating myself on Angular, I felt and feel was also the best of what I saw presented. 
@@ -47,7 +63,7 @@ While going through the initial set up of the project and initial installations 
 * There was an error with with 'from @angular/materials and overall issue with the app.module.ts file. This issue seems wide spread and from my personal searches as well as those listed above who helped with debugging, there wasn't a conclusive fix. Here is a GitHub link detailing the bug https://github.com/angular/components/issues/17503
 
 
-### Acknowledgments
+## Acknowledgments
 
 * Thank you to John Au-Yeung, Gemma, Tishana and Antwon
 * Thank you to a wonderful twitter and slack community, 
