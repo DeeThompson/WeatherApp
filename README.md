@@ -1,41 +1,46 @@
-# MyWeatherApp
+# Project Title
 
-<<<<<<< HEAD
-## Note Scroll Below For Error Documentation 
-=======
-## Note Scroll Below For Error And Debugging Documentation 
->>>>>>> fb2cd14b4997a7bbb720a47c42ce337b38aac395
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1.
+The project is a Weather App entitled simply 'Weather App' 
 
-## Development server
+### Prerequisites
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+* An IDE of your choice
+* Node.js
+* Latest version of Angular  
 
-## Code scaffolding
+### Installing
+* To Install Angular npm i -g @angular/cli 
+* To Install Angular/Materials npm install --save @angular/material @angular/cdk @angular/animations
+* To Install @ngrx/store run npm install @ngrx/store --save
+* To Install 'moment(formatting dates) run npm i moment
+* Follow the installations step by step
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## Built With
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+* [Angular](https://angular.io/) - The web framework used
+* Using VScode https://code.visualstudio.com/
+* and using openweathermap.org. 
 
-## Running unit tests
+## Authors
+* ** DeVon Thompson** - *Debugging*
+* ** Tishana Trainor** - *Debugging*
+** Gemma Curl** - *Debugging*
+* 
+** John Au-Yeung** - *tutorial guide* - https://medium.com/better-programming/how-to-use-the-openweathermap-api-to-make-a-weather-app-f8d67b22c3ca
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Project Comments
+* This was my first time using the Angular framework, given the time frame, I think I chose the best way to complete the task to the best of my ability. 
+* The tutorial that I found through extensive research and educating myself on Angular, I felt and feel was also the best of what I saw presented. 
+*While going through the initial set up of the project and initial installations I did not have any problems. However there were literally two major bugs that were encountered. Which are outlined below.
+* ** Major Bug 1*
+* When initially running the build, there was an issue with the weather.service.ts file pulling information from the environment.ts file. The error message read "Property 'apiUrl' does not exist on type '{ production: boolean; }'"
+* The work around to the problem was hard coding the apiURL and apiKey in the weather.service.ts file
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-
-<<<<<<< HEAD
-## Having IDE Error Issue
-The error's showing up are in src/app/weather.service.ts and deal with 'apiKey' and 'apiUrl' from environment.ts and environment.prod.ts
-=======
-## Debugging
-Having IDE Error Issue
-The error's showing up are in src/app/weather.service.ts and deal with 'apiKey' and 'apiUrl' from environment.ts and environment.prod.ts
->>>>>>> fb2cd14b4997a7bbb720a47c42ce337b38aac395
+* ** Major Bug 2*
+* There was an error with with 'from @angular/materials and overall issue with the app.module.ts file. This issue seems wide spread and from my personal searches as well as those listed above who helped with debugging there wasn't a conclusive fix. Here is a GitHub link detailing the bug https://github.com/angular/components/issues/17503
+## Acknowledgments
+* Thank you to John Au-Yeung, Gemma, Tishana and Antwon
+* Thank you to a wonderful twitter and slack community, 
+* As always google is much appreciated as well as stackoverflow
+* Finally thank you to the people behind this opportunity
