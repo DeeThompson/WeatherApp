@@ -28,7 +28,7 @@ The project is a Weather App entitled simply 'Weather App'
 * Tishana Trainor - *Debugging*
 * Gemma Curl - *Debugging*
 * Antwon Allen - *Debugging*
-* John Au-Yeung** - *tutorial guide* - https://medium.com/better-programming/how-to-use-the-openweathermap-api-to-make-a-weather-app-f8d67b22c3ca
+* John Au-Yeung - *tutorial guide* - https://medium.com/better-programming/how-to-use-the-openweathermap-api-to-make-a-weather-app-f8d67b22c3ca
 
 ## Project Comments
 * This was my first time using the Angular framework, given the time frame, I think I chose the best way to complete the task to the best of my ability. 
