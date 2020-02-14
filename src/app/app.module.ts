@@ -3,15 +3,7 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import {
-  MatButtonModule,
-  MatToolbarModule,
-  MatInputModule,
-  MatTabsModule,
-  MatCardModule,
-  MatDividerModule,
-  MatListModule
-} from '@angular/material';
+import { MatButtonModule, MatToolbarModule, MatInputModule, MatTabsModule, MatCardModule, MatDividerModule, MatListModule } from '../../node_modules/@angular/material';
 import { HomePageComponent } from './home-page/home-page.component';
 import { StoreModule } from '@ngrx/store';
 import { locationReducer } from '../location-reducer';

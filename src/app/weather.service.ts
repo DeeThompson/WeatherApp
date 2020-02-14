@@ -9,9 +9,9 @@ import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { environment } from '../environments/environment';
 import * as moment from 'moment';
-
-const apiKey: string = '077808485fa26003a5b99b7d2834832c';
-const apiUrl: string = 'http://api.openweathermap.org/data/2.5';
+//const apiKey: string = environment.apiKey;
+ const apiKey: string = '077808485fa26003a5b99b7d2834832c';
+ const apiUrl: string = 'http://api.openweathermap.org';
 @Injectable({
   providedIn: 'root'
 })
