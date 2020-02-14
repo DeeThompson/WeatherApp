@@ -5,13 +5,13 @@ The project is a Weather App entitled simply 'Weather App'
 ## Table of Contents 
 
 
-* [Prerequistes](#Prerequistes)
+* [Prerequisites](#Prerequisites)
 * [Installation](#Installation)
 * [Built With](#Built With)
 * [Run The App](#Run The App)
 * [Authors](#Authors)
 * [Project Comments](#Project Comments)
-* [Acknowledgements](#Acknowledgements)
+* [Acknowledgments](#Acknowledgments)
 
 
 
