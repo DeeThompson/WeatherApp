@@ -9,11 +9,12 @@ The project is a Weather App entitled simply 'Weather App'
 * Latest version of Angular  
 
 ### Installing
+* Follow the installations step by step
 * To Install Angular npm i -g @angular/cli 
 * To Install Angular/Materials npm install --save @angular/material @angular/cdk @angular/animations
 * To Install @ngrx/store run npm install @ngrx/store --save
 * To Install 'moment(formatting dates) run npm i moment
-* Follow the installations step by step
+
 
 
 ## Built With
