@@ -37,7 +37,7 @@ The project is a Weather App entitled simply 'Weather App'
 
 * This was my first time using the Angular framework, given the time frame, I think I chose the best way to complete the task to the best of my ability. 
 * The tutorial that I found through extensive research and educating myself on Angular, I felt and feel was also the best of what I saw presented. 
-While going through the initial set up of the project and initial installations I did not have any problems. However there were literally two major bugs that were encountered. Which are outlined below.
+While going through the initial set up of the project and initial installations I did not have any problems. However there were literally two major bugs that were encountered, which are outlined below.
 
 *  Major Bug 1
 * When initially running the build, there was an issue with the weather.service.ts file pulling information from the environment.ts file. The error message read "Property 'apiUrl' does not exist on type '{ production: boolean; }'"
