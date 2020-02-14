@@ -45,7 +45,7 @@ The project is a Weather App entitled simply 'Weather App'
 * DeVon Thompson - *Debugging*
 * Tishana Trainor - *Debugging*
 * Gemma Curl - *Debugging*
-* Antwon Allen - *Debugging*
+* Antwon Allen - *Troubleshooting*
 * John Au-Yeung - *tutorial guide* - https://medium.com/better-programming/how-to-use-the-openweathermap-api-to-make-a-weather-app-f8d67b22c3ca
 
 
